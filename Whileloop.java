@@ -9,7 +9,9 @@ public class Whileloop {
             System.out.println(coutdown);
             coutdown--;
         }
+     
         System.out.println("Hello World......");
+         sc.close();
     }
     
 }
